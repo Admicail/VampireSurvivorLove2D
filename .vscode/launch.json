@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Love2D",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "C:/Users/admic/Documents/Programacion/Lua/love-11.5-win64/love-11.5-win64/love.exe",
+            "args": ["."],
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal"
+        }
+    ]
+}
